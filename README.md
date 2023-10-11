@@ -5,7 +5,6 @@ Web developer and UI Designer
 -----------------------------
 
 * 🌍  I'm based in Temuco, Chile
-* 🧠  I'm learning Next Js and Node Js
 * 🤝  I'm open to collaborating on Interesting Project
 * ⚡  I'm a Jedi, but this is a secret
 
